@@ -3,7 +3,7 @@
 
 class HkUrls{
 
-  static const String mapApiKey = 'AIzaSyDHoFrJ1Gh3E4bOjZ9Jhh0SlxoK68K1b_4';
+  static const String mapApiKey = 'xxxxxxxxxxxxxxxxxxxxx'; // Api Key
 
   /// Api Url for fetch all the details of the marker using place id
   static getMarkerDetailsApi(String placeId){
